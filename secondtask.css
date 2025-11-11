@@ -1,4 +1,4 @@
-/* General Body Styling */
+
 body {
   font-family: Arial, sans-serif;
   background-color: #f3f6f9;
@@ -9,7 +9,7 @@ body {
   margin: 0;
 }
 
-/* Form Container */
+
 form {
   background-color: #fff;
   padding: 25px 35px;
@@ -18,14 +18,14 @@ form {
   width: 350px;
 }
 
-/* Form Header */
+
 h2 {
   text-align: center;
   color: #333;
   margin-bottom: 20px;
 }
 
-/* Labels and Inputs */
+
 label {
   display: block;
   margin-bottom: 6px;
@@ -47,7 +47,7 @@ select {
   box-sizing: border-box;
 }
 
-/* Radio Buttons */
+
 .gender-group {
   margin-bottom: 15px;
 }
@@ -62,7 +62,7 @@ select {
   font-weight: normal;
 }
 
-/* Checkbox */
+
 .terms {
   display: flex;
   align-items: center;
@@ -74,7 +74,7 @@ select {
   margin-right: 8px;
 }
 
-/* Button */
+
 button {
   width: 100%;
   padding: 10px;
@@ -91,14 +91,14 @@ button:hover {
   background-color: #0056b3;
 }
 
-/* Input Focus */
+
 input:focus, select:focus {
   outline: none;
   border-color: #007BFF;
   box-shadow: 0 0 4px rgba(0, 123, 255, 0.3);
 }
 
-/* Responsive Design */
+
 @media (max-width: 400px) {
   form {
     width: 90%;
